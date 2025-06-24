@@ -1416,7 +1416,7 @@ body {
 }
 
 .map__top iframe {
-  border-radius: 1.5rem;
+  border-radius: 1.5rem;  width: 100%;
 }
 @media (max-width: 1509px) {
   .map__top iframe {
