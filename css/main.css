@@ -1599,6 +1599,10 @@ body {
   bottom: 0;
   width: 100%;
 }
+.map__bottom iframe{
+
+  width: 100%;
+}
 @media (max-width: 637px) {
   .map__bottom {
     display: block;
